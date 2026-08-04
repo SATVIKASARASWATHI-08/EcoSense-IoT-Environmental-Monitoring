@@ -9,6 +9,14 @@ Sensor data is displayed on an OLED display and is designed to be integrated wit
 This project was developed to strengthen practical skills in **Embedded Systems**, **IoT**, **sensor interfacing**, and **microcontroller programming**.
 
 ---
+## 🔗 Live Simulation
+
+Experience the project in your browser using Wokwi:
+
+**▶ Wokwi Simulation:** https://wokwi.com/projects/471080600462922753
+
+
+
 ## 🚀 Project Highlights
 
 - ESP32-based Embedded System
