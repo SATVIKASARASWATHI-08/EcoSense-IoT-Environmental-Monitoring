@@ -9,6 +9,16 @@ Sensor data is displayed on an OLED display and is designed to be integrated wit
 This project was developed to strengthen practical skills in **Embedded Systems**, **IoT**, **sensor interfacing**, and **microcontroller programming**.
 
 ---
+## 🚀 Project Highlights
+
+- ESP32-based Embedded System
+- Real-time Environmental Monitoring
+- OLED Display Interface
+- Gas Detection using MQ-2
+- Temperature & Humidity Monitoring
+- RGB LED Status Indicators
+- Active Buzzer Alerts
+- Cloud Integration with ThingSpeak (In Progress)
 
 ## ✨ Features
 
